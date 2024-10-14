@@ -1,0 +1,36 @@
+.product-card {
+    position: relative;
+    overflow: hidden;
+    border: none;
+    text-align: center;
+  }
+  
+  .product-image {
+    width: 100%;           /* Full width of the card */
+    height: 300px;         /* Set a consistent height for all images */
+    object-fit: cover;     /* The first image will fill the space while keeping aspect ratio */
+    transition: transform 0.3s ease;  /* Smooth zoom effect on hover */
+  }
+  
+  .product-card:hover .product-image {
+    transform: scale(1.05);  /* Slight zoom effect for the first image */
+  }
+  
+  .product-card .second-image {
+    object-fit: contain;    /* Ensure the second image is fully visible */
+  }
+  
+  .product-info {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .quick-add-btn {
+    opacity: 0;              /* Hidden by default */
+    transition: opacity 0.3s ease;  /* Smooth transition for appearing */
+  }
+  
+  .product-card:hover .quick-add-btn {
+    opacity: 1;              /* Show the button when hovering over the product card */
+  }
+  

@@ -1,0 +1,25 @@
+// src/components/NailCare.js
+import React from 'react';
+import { Container } from 'react-bootstrap';
+
+function NailCare() {
+  return (
+    <Container className="mt-4">
+      <h2>Nail Care Resources</h2>
+      <p>Welcome to our Nail Care Resources section! Here you'll find guides and tips to help you maintain beautiful and healthy nails.</p>
+      
+      <h4>1. How to Apply Press-On Nails</h4>
+      <p>Step-by-step instructions on applying press-on nails...</p>
+      
+      <h4>2. Nail Care Tips</h4>
+      <p>Tips to keep your nails strong and healthy...</p>
+      
+      <h4>3. Styling Ideas</h4>
+      <p>Creative styling ideas for your press-on nails...</p>
+      
+      {/* Add more resources as needed */}
+    </Container>
+  );
+}
+
+export default NailCare;

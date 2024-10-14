@@ -1,0 +1,26 @@
+/* src/pages/WishlistPage.css */
+.wishlist-add-to-cart-btn:hover {
+    background-color: #6c757d !important;  /* Lighter gray on hover */
+    border-color: #6c757d !important;
+  }
+  
+  /* Styling for X button */
+  .wishlist-remove-btn {
+    position: absolute;
+    top: 0px;            /* A small margin from the top */
+    right: 0px;          /* A small margin from the right */
+    width: 30px;         /* Set width for a square button */
+    height: 30px;        /* Set height for a square button */
+    padding: 0;          /* Remove any extra padding */
+    background: transparent; /* No background */
+    border: none;        /* No border */
+    font-size: 1.2rem;   /* Adjust font size */     
+    display: flex;
+    align-items: center;  /* Center the X within the button */
+    justify-content: center;  /* Center the X within the button */
+    cursor: pointer;     /* Show pointer on hover */
+  }
+  
+  .wishlist-remove-btn:hover {
+    color: red;        /* Change color on hover if needed */
+  }

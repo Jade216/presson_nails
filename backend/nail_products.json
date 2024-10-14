@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Golden Elegance",
+    "description": "Golden Elegance short square press-on nails feature a blend of ivory and nude tones, highlighted with gold accents and glitter details.",
+    "color": ["white", "silver", "nude", "golden", "yellow"],
+    "length": "Medium-length",
+    "price": 18.99,
+    "image_url": ["nail_images/DQ29-MK-M004.jpg", "nail_images/DQ29-MK-M004-1.jpg", "nail_images/DQ29-MK-M004-2.jpg"],
+    "sizes": [
+      { "size": "S", "stock_quantity": 3 },
+      { "size": "M", "stock_quantity": 4 },
+      { "size": "L", "stock_quantity": 2 }
+    ]
+  },
+  {
+    "name": "Crystal Glam",
+    "description": "The Crystal Glam short coffin press-on nails feature a sleek silver finish with bold crystal accents, perfect for adding a touch of luxury and elegance..",
+    "color": ["silver", "white"],
+    "length": "Medium-length",
+    "price": 19.99,
+    "image_url": ["nail_images/DQ47-SL-M006.jpg", "nail_images/DQ47-SL-M006-1.jpg", "nail_images/DQ47-SL-M006-2.jpg"],
+    "sizes": [
+      { "size": "S", "stock_quantity": 4 },
+      { "size": "M", "stock_quantity": 4 },
+      { "size": "L", "stock_quantity": 2 }
+    ]
+  },
+  {
+    "name": "Midnight Sparkle",
+    "description": "Midnight Sparkle press-on nails feature a mix of silver designs, gemstones, and star embellishments, offering a celestial and glamorous style.",
+    "color": ["white", "black", "silver", "gray"],
+    "length": "Long-length",
+    "price": 24.99,
+    "image_url": ["nail_images/DQ48-BW-L001.jpg", "nail_images/DQ48-BW-L001-1.jpg", "nail_images/DQ48-BW-L001-2.jpg"],
+    "sizes": [
+      { "size": "S", "stock_quantity": 3 },
+      { "size": "M", "stock_quantity": 4 },
+      { "size": "L", "stock_quantity": 2 }
+    ]
+  },
+  {
+    "name": "Comic Vibes",
+    "description": "Comic Vibes medium-length coffin press-on nails feature playful cartoon designs with vibrant colors, perfect for adding a fun and quirky touch to your look.",
+    "color": ["white", "yellow", "blue", "red"],
+    "length": "Medium-length",
+    "price": 22.99,
+    "image_url": ["nail_images/DQ51-WH-M008.jpg", "nail_images/DQ51-WH-M008-1.jpg", "nail_images/DQ51-WH-M008-2.jpg"],
+    "sizes": [
+      { "size": "S", "stock_quantity": 4 },
+      { "size": "M", "stock_quantity": 3 },
+      { "size": "L", "stock_quantity": 2 }
+    ]
+  },
+  {
+    "name": "Rose Glam",
+    "description": "Rose Glam medium-length coffin press-on nails feature a soft rose hue with elegant rhinestone accents and geometric silver detailing, perfect for adding a touch of sophistication to your style.",
+    "color": ["red", "rose", "silver", "golden", "pink"],
+    "length": "Medium-length",
+    "price": 18.99,
+    "image_url": ["nail_images/DQ123-RD-M010.jpg", "nail_images/DQ123-RD-M010-1.jpg", "nail_images/DQ123-RD-M010-2.jpg"],
+    "sizes": [
+      { "size": "S", "stock_quantity": 4 },
+      { "size": "M", "stock_quantity": 3 },
+      { "size": "L", "stock_quantity": 2 }
+    ]
+  },
+  {
+    "name": "Butterfly Bloom",
+    "description": "Butterfly Bloom medium-length coffin press-on nails feature delicate butterfly and floral embellishments with a soft white finish, offering an elegant and whimsical touch to your style.",
+    "color": ["white", "silver", "nude"],
+    "length": "Medium-length",
+    "price": 18.99,
+    "image_url": ["nail_images/DQ173-WH-M013.jpg", "nail_images/DQ173-WH-M013-1.jpg", "nail_images/DQ173-WH-M013-2.jpg"],
+    "sizes": [
+      { "size": "S", "stock_quantity": 3 },
+      { "size": "M", "stock_quantity": 4 },
+      { "size": "L", "stock_quantity": 2 }
+    ]
+  },
+  {
+    "name": "Midnight Waves",
+    "description": "Midnight Waves press-on nails feature a sleek matte black base with flowing silver accents, offering a bold and modern look.",
+    "color": ["white", "silver", "nude"],
+    "length": "Long-length",
+    "price": 20.99,
+    "image_url": ["nail_images/DQ174-BK-L004.jpg", "nail_images/DQ174-BK-L004-1.jpg", "nail_images/DQ174-BK-L004-2.jpg"],
+    "sizes": [
+      { "size": "S", "stock_quantity": 3 },
+      { "size": "M", "stock_quantity": 4 },
+      { "size": "L", "stock_quantity": 2 }
+    ]
+  },
+  {
+    "name": "Icy Elegance",
+    "description": "Icy Elegance press-on nails feature a frosty white finish with delicate silver accents and textured designs, offering a sleek and sophisticated winter-inspired look.",
+    "color": ["white", "silver", "nude"],
+    "length": "Long-length",
+    "price": 22.99,
+    "image_url": ["nail_images/DQ221-WH-L005.jpg", "nail_images/DQ221-WH-L005-1.jpg", "nail_images/DQ221-WH-L005-2.jpg"],
+    "sizes": [
+      { "size": "S", "stock_quantity": 4 },
+      { "size": "M", "stock_quantity": 3 },
+      { "size": "L", "stock_quantity": 2 }
+    ]
+  },
+  {
+    "name": "Cow Love",
+    "description": "Cow Love medium-length coffin press-on nails feature playful black-and-white cow print designs with cute heart and star accents, perfect for a fun and trendy look.",
+    "color": ["white", "silver", "nude"],
+    "length": "Medium-length",
+    "price": 18.99,
+    "image_url": ["nail_images/DQ249-WH-M014.jpg", "nail_images/DQ249-WH-M014-1.jpg", "nail_images/DQ249-WH-M014-2.jpg"],
+    "sizes": [
+      { "size": "S", "stock_quantity": 4 },
+      { "size": "M", "stock_quantity": 4 },
+      { "size": "L", "stock_quantity": 2 }
+    ]
+  },
+  {
+    "name": "Ruby Hearts",
+    "description": "Ruby Hearts medium-length coffin press-on nails feature a rich red gradient with gold heart accents and sparkling rhinestones, creating an elegant and romantic look.",
+    "color": ["RED", "rose", "pink"],
+    "length": "Medium-length",
+    "price": 18.99,
+    "image_url": ["nail_images/DQ252-RD-M015.jpg", "nail_images/DQ252-RD-M015-1.jpg", "nail_images/DQ252-RD-M015-2.jpg"],
+    "sizes": [
+      { "size": "S", "stock_quantity": 4 },
+      { "size": "M", "stock_quantity": 3 },
+      { "size": "L", "stock_quantity": 2 }
+    ]
+  },
+  {
+    "name": "Sweet Treats",
+    "description": "Sweet Treats short square press-on nails feature playful designs inspired by desserts and snacks, with pretzel,candy and donut accents for a fun and whimsical look.",
+    "color": ["yellow", "brown", "red", "ivory", "cream"],
+    "length": "Short-length",
+    "price": 21.99,
+    "image_url": ["nail_images/DQ261-YL-S001.jpg", "nail_images/DQ261-YL-S001-1.jpg", "nail_images/DQ261-YL-S001-2.jpg"],
+    "sizes": [
+      { "size": "S", "stock_quantity": 2 },
+      { "size": "M", "stock_quantity": 4 },
+      { "size": "L", "stock_quantity": 2 }
+    ]
+  },
+  {
+    "name": "Cozy Bear",
+    "description": "Cozy Bear short square press-on nails feature adorable bear and dessert-themed designs with plaid patterns, perfect for a fun and playful look.",
+    "color": ["yellow", "brown", "purple", "burgundy", "cream", "black", "white", "coffee"],
+    "length": "Short-length",
+    "price": 23.99,
+    "image_url": ["nail_images/DQ284-BR-S002.jpg", "nail_images/DQ284-BR-S002-1.jpg", "nail_images/DQ284-BR-S002-2.jpg"],
+    "sizes": [
+      { "size": "S", "stock_quantity": 3 },
+      { "size": "M", "stock_quantity": 4 },
+      { "size": "L", "stock_quantity": 2 }
+    ]
+  }
+]
